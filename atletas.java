@@ -17,7 +17,7 @@ public class Atletas {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Informe a quantidade de atletas (N > 0): ");
+        System.out.print("Informe a quantidade de atletas: ");
         int n = scanner.nextInt();
         scanner.nextLine();
 
